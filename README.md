@@ -38,7 +38,7 @@ O resultado será considerado bom se for claro, organizado, baseado exclusivamen
 - **Possível impacto na experiência e no risco de churn**
 
 **Cuidados e restrições:**
-- Use **apenas os dados fornecidos**.
+- Use **apenas os dados fornecidos**. Limite-se a isso.
 - **Não invente** números, causas, percentuais ou conclusões sem evidência.
 - **Não exponha dados pessoais ou sensíveis** (nome, CPF, conta, agência, e-mail, telefone, endereço). Anonimize ao citar exemplos.
 - Se houver **informação insuficiente**, indique claramente a limitação.
